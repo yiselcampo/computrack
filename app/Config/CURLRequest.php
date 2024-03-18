@@ -17,4 +17,4 @@ class CURLRequest extends BaseConfig
      * It may cause an error request with unnecessary headers.
      */
     public bool $shareOptions = false;
-}
+} 
